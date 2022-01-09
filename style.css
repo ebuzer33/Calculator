@@ -41,16 +41,6 @@ section {
     overflow: hidden;
 }
 
-.result{
-    /* border: solid;
-    text-align: right;
-    position: absolute;
-    left: 10;
-    font-size: 20px;
-    width: auto;
-    opacity: .4; */
-}
-
 .allbuttons {
     display: grid;
     grid-template: repeat(4, 1fr) / repeat(4, 1fr);
